@@ -9,7 +9,6 @@ def verificar_dirac(grafo):
             return False
     return True
 
-
 def verificar_ore(grafo):
     n = len(grafo)
     if n < 3:
